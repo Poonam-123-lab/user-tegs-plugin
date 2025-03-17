@@ -29,23 +29,3 @@ User Tags adds a taxonomy system to WordPress users, allowing administrators to 
 3. Go to Users > User Tags to manage your tags
 4. Assign tags to users on their profile pages
 
-== Frequently Asked Questions ==
-
-= Can I assign multiple tags to a user? =
-
-Yes, you can assign as many tags as you need to each user.
-
-= Can I filter users by tags? =
-
-Yes, the plugin adds a filter dropdown to the Users screen.
-
-== Screenshots ==
-
-1. User Tags management screen
-2. User profile with tag selection
-3. Users list with tag filtering
-
-== Changelog ==
-
-= 1.0.0 =
-* Initial release
